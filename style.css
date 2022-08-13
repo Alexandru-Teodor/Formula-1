@@ -86,22 +86,3 @@ body {
     right: 6.5vw;
     margin-top: 8.5vw;
 }
-
-@media screen and (max-width: 450px) {
-    #current-score {
-        width: 2vw;
-    }
-
-    #high-score {
-        width: 15vw;
-    }
-
-    #crt-score-val {
-        margin-top: 20.5vw;
-    }
-
-    #high-score-val {
-        right: 12vw;
-        margin-top: 20.5vw;
-    }
-}
